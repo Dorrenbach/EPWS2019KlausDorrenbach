@@ -22,3 +22,9 @@ Die zusätzliche Kommunikation steigert den gesellschaftlichen Wert
 und die informative Hilfestellung erhöht den wissenschaftlichen Mehrwert der Anwendung. 
 
 Der Soziotechnische Teil des Systems ist die Menge von Menschen die mit der Anwendung arbeitet und kommuniziert. Sie soll einzelne oder eine Gruppe von Menschen auf bestimmter Weise strukturieren. Das System soll die Arbeitsweise sowie den Prozessablauf mit Einwirkung von Personen vereinfachen. So sind System und Mensch abhängig von einander.
+
+Ausarbeitung der Nebenperspektive
+
+Social Computing:
+Unser System soll einzelne oder eine Gruppe von Menschen auf bestimmter Weise strukturieren. Dabei bestehen die einzelnen Gruppen aus verschiedenen Altersgruppen sowie verschiedene sozialen Gruppen. Jede Gruppe hat dabei unterschiedliche Interessen und bringt anderes Vorwissen mit. Dieses muss bei der Erstellung des Systems beachtet werden. Hilfen soll dabei die Ausarbeitung von Erfordernissen sowie den daraus folgenden Anforderungen und use cases. Das System soll die Arbeitsweise der einzelnen Gruppen untereinander sowie den Prozessablauf mit Einwirkung von Personen vereinfachen. So sind System und Mensch abhängig voneinander. Des Weiteren sind auch die Gruppen voneinander abhängig z.B kann die Regie die Auflösung der Kamera oder die Reihenfolge der genutzten Kameraperspektiven bestimmen. Daraus folgt, dass die Zusammenarbeit der einzelnen Departments mit ihren individuellen Aufgaben und Zielen am Ende das Gesamtergebnis bilden. Um diese Gesamtergebnis schnell und effizient zu erreichen entwickeln wir eine digitale App für organisiertes Arbeiten in Form eines soziotechnischen Systems. Das soziotechnische System hat neben der Vernetzung von Personen auch die Aufgabe die Kommunikation der Departments und die genutzten Daten vor Unbefugten einsehen zu schützen.
+
