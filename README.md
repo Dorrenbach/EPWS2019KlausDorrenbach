@@ -23,7 +23,7 @@ und die informative Hilfestellung erhöht den wissenschaftlichen Mehrwert der An
 
 Der Soziotechnische Teil des Systems ist die Menge von Menschen die mit der Anwendung arbeitet und kommuniziert. Sie soll einzelne oder eine Gruppe von Menschen auf bestimmter Weise strukturieren. Das System soll die Arbeitsweise sowie den Prozessablauf mit Einwirkung von Personen vereinfachen. So sind System und Mensch abhängig von einander.
 
-## Ausarbeitung der Nebenperspektive
+## Dokumentation der Nebenperspektive
 
 Das Modul „Entwicklungsprojekt“ hat das Ziel wichtige Konzepte, Methoden und Techniken, die in Bezug auf die Medieninformatik relevant sind, den Studenten näher zu bringen. Dabei erarbeiten wir, meist in zweier Gruppen, ein digitales System. Dieses Digitale System ist dabei in eine Hauptperspektive, bei uns Visual Computing, sowie einer Nebenperspektive „Social Computing“ aufgeteilt. In der folgenden Dokumentation wird spezifisch auf die Nebenperspektive eingegangen. Es soll klar werden wie die Nebenperspektive bearbeitet wurde und diese im digitalen System einbezogen wurde.
 
